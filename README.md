@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gigachad-kirby
 - 👀 I’m interested in creating games
-- 🌱 I’m currently learning htlml
+- 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on creating games
 - 📫 How to reach me radioactivecaptain21@gmail.com
 - 😄 Pronouns: he/him
